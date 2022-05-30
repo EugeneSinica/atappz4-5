@@ -1,0 +1,16 @@
+C:\IT\Entity Framework\LAB4-5\LAB4-5\bin\Debug\LAB4-5.exe.config
+C:\IT\Entity Framework\LAB4-5\LAB4-5\bin\Debug\LAB4-5.exe
+C:\IT\Entity Framework\LAB4-5\LAB4-5\bin\Debug\LAB4-5.pdb
+C:\IT\Entity Framework\LAB4-5\LAB4-5\bin\Debug\EntityFramework.dll
+C:\IT\Entity Framework\LAB4-5\LAB4-5\bin\Debug\EntityFramework.SqlServer.dll
+C:\IT\Entity Framework\LAB4-5\LAB4-5\bin\Debug\EntityFramework.xml
+C:\IT\Entity Framework\LAB4-5\LAB4-5\bin\Debug\EntityFramework.SqlServer.xml
+C:\IT\Entity Framework\LAB4-5\LAB4-5\obj\Debug\LAB4-5.csproj.AssemblyReference.cache
+C:\IT\Entity Framework\LAB4-5\LAB4-5\obj\Debug\LAB4-5.csproj.SuggestedBindingRedirects.cache
+C:\IT\Entity Framework\LAB4-5\LAB4-5\obj\Debug\LAB4_5.Properties.Resources.resources
+C:\IT\Entity Framework\LAB4-5\LAB4-5\obj\Debug\LAB4-5.csproj.GenerateResource.cache
+C:\IT\Entity Framework\LAB4-5\LAB4-5\obj\Debug\LAB4-5.csproj.CoreCompileInputs.cache
+C:\IT\Entity Framework\LAB4-5\LAB4-5\obj\Debug\LAB4-5.csproj.CopyComplete
+C:\IT\Entity Framework\LAB4-5\LAB4-5\obj\Debug\LAB4-5.exe
+C:\IT\Entity Framework\LAB4-5\LAB4-5\obj\Debug\LAB4-5.pdb
+C:\IT\Entity Framework\LAB4-5\LAB4-5\obj\Debug\LAB4_5.Form1.resources
